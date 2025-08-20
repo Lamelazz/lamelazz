@@ -45,7 +45,7 @@ I enjoy working with **React Native, Java, and Python** while continuously learn
   <a href="mailto:lamnguyen010904@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/>
   </a>
-  <a href="https://facebook.com/yourprofile">
+  <a href="https://www.facebook.com/nguyen.lam.26124/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=fff" alt="Facebook"/>
   </a>
 </p>
