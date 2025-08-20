@@ -10,7 +10,7 @@ I enjoy working with **React Native, Java, and Python** while continuously learn
 
 ## 🛠 Tech Stack  
 
-### 🚀 Frontend  
+### 🚀 Programming  
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React"/>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="React Native"/>
@@ -18,9 +18,10 @@ I enjoy working with **React Native, Java, and Python** while continuously learn
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff" alt="C#"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python"/>
 </p>
 
-### ⚙️ Backend  
+### ⚙️ Database  
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff" alt="SQL Server"/>
