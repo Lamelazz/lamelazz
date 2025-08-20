@@ -1,42 +1,33 @@
 ## ✨ About Me
-
-"I’m a Information Technology student passionate about web development and modern technologies. I enjoy building projects with React, Next.js, and Node.js while continuously learning and exploring new tools to grow as a full stack developer."
+I'm an Information Technology student passionate about **Software Testing** and **Software Development**.  
+I enjoy working with **React Native, Java, and Python** while continuously learning and exploring new tools to grow as a **QA Engineer & Developer**.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) 
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) 
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff) 
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff) 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff) 
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff)  
 
 ### Tools & Others
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff) 
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=fff) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)  
 
 ---
+
 ## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://www.facebook.com/nguyen.lam.26124/">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:lamnguyen010904@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
-
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Lamelazz)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff)](mailto:lamnguyen010904@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff)](https://www.facebook.com/nguyen.lam.26124/)
